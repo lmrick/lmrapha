@@ -1,5 +1,5 @@
-# <h1 align="center">Hi :speech_balloon:, I'm Rafael.</h1>
-<h4 align="center">I'm interested in Backend Development, currently focusing on :coffee: Java.<br>Always learning new things.</h4>
+# <h1 align="center">Hi :speech_balloon:, I'm Raphael.</h1>
+<h4 align="center">I'm interested in Backend Development<br>Always learning new things.</h4>
 
 <h3 style="" align="center">:writing_hand: :brain: Languages and Skills:</h3>
 
